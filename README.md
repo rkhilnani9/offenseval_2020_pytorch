@@ -13,5 +13,7 @@ Stood 25th in binary classification task with 0.91 F1-Score on the test set.
 ## Resources
 
 Task link - https://sites.google.com/site/offensevalsharedtask/
+
 Offensive Language Identification Dataset (OLID) - https://sites.google.com/site/offensevalsharedtask/olid
+
 English task link - https://competitions.codalab.org/competitions/23285
